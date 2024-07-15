@@ -1,2 +1,2 @@
 # FinalProjectUnit2
-DSCertificate Repository
+This repository shows my early work with Jupyter Notebooks and is part of my DSCertificate program through IBM.
